@@ -34,6 +34,20 @@ vote share, and the closeness of the 2023 contests.
 -   Provide transparent definitions, source notes, and downloadable
     tables.
 
+    ## 🛠️ Technologies Used
+
+- **Python** — Core programming language used for data processing and analysis.
+- **Pandas** — Data cleaning, manipulation, and election data analysis.
+- **Streamlit** — Interactive web dashboard development and deployment.
+- **Altair** — Interactive charts and visualizations for constituency-level comparisons.
+
+### Key Capabilities
+
+- Constituency-wise comparison of the 2018 and 2023 Telangana Assembly elections.
+- Analysis of party performance and changes in winning parties.
+- Visualization of electoral margins and vote-share changes.
+- Interactive exploration of election results through a web-based dashboard.
+
 ## Dashboard sections
 
 1.  **Election overview** --- 119 constituencies, the count of
