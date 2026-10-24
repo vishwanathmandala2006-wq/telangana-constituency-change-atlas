@@ -6,6 +6,13 @@ An interactive Streamlit dashboard exploring statewide party
 performance, constituency-level winners, changes in winning-candidate
 vote share, and the closeness of the 2023 contests.
 
+## 🚀 Live Demo
+
+**Explore the interactive dashboard:**  
+[Telangana Constituency Change Atlas](https://telangana-constituency-change-atlas.streamlit.app/)
+
+**Source code:** [GitHub Repository](https://github.com/vishwanathmandala2006-wq/telangana-constituency-change-atlas)
+
 > **Scope:** This is a descriptive comparison of election results. It
 > documents what changed between the two elections; it does not
 > establish why voters changed their preferences.
