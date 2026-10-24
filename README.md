@@ -156,7 +156,7 @@ transitions from aggregate results.
 ``` text
 Telangana Project/
 ├── app.py
-├── requirements_dashboard.txt
+├── requirements.txt
 ├── data/
 │   ├── telangana_2023_raw.xlsx
 │   ├── telangana_2023_candidates_clean.csv
@@ -195,7 +195,7 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 
 # Install dependencies
-python -m pip install -r requirements_dashboard.txt
+python -m pip install -r requirements.txt
 
 # Launch the dashboard
 python -m streamlit run app.py
@@ -216,7 +216,7 @@ directory relative to `app.py`. Keep the folder structure intact.
     dataset.
 -   [ ] Run all validation scripts from a clean environment.
 -   [ ] Launch the app and test filters, tables, and downloads.
--   [ ] Ensure `requirements_dashboard.txt` lists all packages imported
+-   [ ] Ensure `requirements.txt` lists all packages imported
     by `app.py`.
 -   [ ] Remove unnecessary personal paths, credentials, private data,
     and temporary files.
