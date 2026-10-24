@@ -13,6 +13,10 @@ vote share, and the closeness of the 2023 contests.
 
 **Source code:** [GitHub Repository](https://github.com/vishwanathmandala2006-wq/telangana-constituency-change-atlas)
 
+### Dashboard Preview
+
+![Telangana Constituency Change Atlas Dashboard](assets/dashboard-preview.png)
+
 > **Scope:** This is a descriptive comparison of election results. It
 > documents what changed between the two elections; it does not
 > establish why voters changed their preferences.
